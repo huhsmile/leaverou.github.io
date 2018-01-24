@@ -6,6 +6,31 @@
 					"title": "TBD",
 					"type": "Talk"
 				}
+			]
+		},
+		{
+			"talk": [
+				{
+					"title": "Event Yeay",
+					"type": "Talk"
+				},
+				{
+					"title": "TBD",
+					"type": "Talk"
+				},
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
+			"date": "2018-01-11"
+		},
+		{
+			"talk": [
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
 			],
 			"url": "https://smashingconf.com/toronto-2018/",
 			"name": "SmashingConf Toronto",
